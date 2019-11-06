@@ -1,59 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/uansolo/unir/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-HOLA!!
-
-<!DOCTYPE html>
-<html>
-<head> "HEAD"
-<meta charset="UTF-8">
-<title>Title of the document</title>
-</head>
-
-<body>
-Content of the document......
-</body>
-
-</html>
+[editor on GitHub](https://github.com/uansolo/unir/edit/master/index.md) to maintain and preview the content for your website in 
 
 
-
-/*
-
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uansolo/unir/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-*/
+<HTML>
+<HEAD>
+<TITLE>Ejemplo 3</TITLE>
+</HEAD>
+<BODY>
+Esto es texto simple: cada navegador lo visualizará según su configuración por defecto.
+<FONT SIZE="1">Este texto es tamaño 1.</FONT>
+<FONT SIZE="2">Este texto es tamaño 2.</FONT>
+<FONT SIZE="4">Este texto es tamaño 4.</FONT>
+<FONT SIZE="+1">Este texto es tamaño +1 (que es lo mismo que tamaño 4).</FONT>
+<FONT FACE="Arial" SIZE="5" COLOR="FFFF00">Este texto posee varias especificaciones de formato.</FONT>
+</BODY>
+</HTML>
