@@ -1,16 +1,7 @@
 [editor on GitHub](https://github.com/uansolo/unir/edit/master/index.md) to maintain and preview the content for your website in 
 
 
-<HTML>
-<HEAD>
-<TITLE>Ejemplo 3</TITLE>
-</HEAD>
-<BODY>
-Esto es texto simple: cada navegador lo visualizará según su configuración por defecto.
-<FONT SIZE="1">Este texto es tamaño 1.</FONT>
-<FONT SIZE="2">Este texto es tamaño 2.</FONT>
-<FONT SIZE="4">Este texto es tamaño 4.</FONT>
-<FONT SIZE="+1">Este texto es tamaño +1 (que es lo mismo que tamaño 4).</FONT>
-<FONT FACE="Arial" SIZE="5" COLOR="FFFF00">Este texto posee varias especificaciones de formato.</FONT>
-</BODY>
-</HTML>
+
+# Header 1
+## Header 2
+### Header 3
