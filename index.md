@@ -7,9 +7,9 @@ https://github.com/uansolo/unir/edit/master/index.markdown
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ page.title }}</title>
+    <title> "MI TITULO DE PAGINA </title>
    </head>
    <body>
-    {{ content }}
+    <p> CUERPO
    </body>
 </html>
