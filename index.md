@@ -5,6 +5,6 @@
 # ESTE ES EL PRIMER FORO.
 ## Una prueba para la tarea UNIR.
 
-** ¿Qué opinión tienes acerca de la primera tarea de Desarrollo AplicacionEs WEB? **
+**¿Qué opinión tienes acerca de la primera tarea de Desarrollo AplicacionEs WEB?
 
 [Link](url) and ![Image](src)
