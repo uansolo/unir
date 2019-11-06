@@ -6,7 +6,7 @@ HOLA!!
 
 <!DOCTYPE html>
 <html>
-<head>
+<head> "HEAD"
 <meta charset="UTF-8">
 <title>Title of the document</title>
 </head>
